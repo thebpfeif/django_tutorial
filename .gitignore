@@ -15,6 +15,7 @@ dist/
 downloads/
 eggs/
 .eggs/
+.idea/
 lib/
 lib64/
 parts/
@@ -49,6 +50,9 @@ coverage.xml
 # Translations
 *.mo
 *.pot
+
+# Database stuff: 
+*.sqlite3
 
 # Django stuff:
 *.log
